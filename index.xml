@@ -8,6 +8,15 @@
     <language>en-gb</language>
     <lastBuildDate>Thu, 19 Oct 2017 15:26:15 +0000</lastBuildDate><atom:link href="https://SilverR0ck.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>SecondBlog</title>
+      <link>https://SilverR0ck.github.io/blog/secondblog/</link>
+      <pubDate>Fri, 12 May 2023 21:07:59 +0900</pubDate>
+      
+      <guid>https://SilverR0ck.github.io/blog/secondblog/</guid>
+      <description>Hi I&amp;rsquo;m Eunseok. </description>
+    </item>
+    
+    <item>
       <title>Hugo Portfolio Website</title>
       <link>https://SilverR0ck.github.io/portfolio/hugo-portfolio-website/</link>
       <pubDate>Fri, 19 Jun 2020 23:00:00 +0000</pubDate>
