@@ -8,6 +8,26 @@
     <language>en-gb</language>
     <lastBuildDate>Thu, 19 Oct 2017 15:26:15 +0000</lastBuildDate><atom:link href="https://SilverR0ck.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Introduction</title>
+      <link>https://SilverR0ck.github.io/blog/introduction/</link>
+      <pubDate>Fri, 12 May 2023 21:07:59 +0900</pubDate>
+      
+      <guid>https://SilverR0ck.github.io/blog/introduction/</guid>
+      <description>I&amp;rsquo;m a sophomore in the Department of Software at Korea Aerospace University.
+ A homepage with more social links, and description of my skills An about page with description of who I am A portfolio page to showcase all my projects A blog  Who am I Later
+What are you studying this year? </description>
+    </item>
+    
+    <item>
+      <title>Studying</title>
+      <link>https://SilverR0ck.github.io/blog/studying/</link>
+      <pubDate>Fri, 12 May 2023 21:07:59 +0900</pubDate>
+      
+      <guid>https://SilverR0ck.github.io/blog/studying/</guid>
+      <description>Hi I&amp;rsquo;m Eunseok. 2023-05-12T21:07:59+09:00 From this point on, I gonna post what I have learned about software. </description>
+    </item>
+    
+    <item>
       <title>Hugo Portfolio Website</title>
       <link>https://SilverR0ck.github.io/portfolio/hugo-portfolio-website/</link>
       <pubDate>Fri, 19 Jun 2020 23:00:00 +0000</pubDate>

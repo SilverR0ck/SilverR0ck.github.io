@@ -7,5 +7,25 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Sun, 12 May 2019 12:14:34 +0600</lastBuildDate><atom:link href="https://SilverR0ck.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction</title>
+      <link>https://SilverR0ck.github.io/blog/introduction/</link>
+      <pubDate>Fri, 12 May 2023 21:07:59 +0900</pubDate>
+      
+      <guid>https://SilverR0ck.github.io/blog/introduction/</guid>
+      <description>I&amp;rsquo;m a sophomore in the Department of Software at Korea Aerospace University.
+ A homepage with more social links, and description of my skills An about page with description of who I am A portfolio page to showcase all my projects A blog  Who am I Later
+What are you studying this year? </description>
+    </item>
+    
+    <item>
+      <title>Studying</title>
+      <link>https://SilverR0ck.github.io/blog/studying/</link>
+      <pubDate>Fri, 12 May 2023 21:07:59 +0900</pubDate>
+      
+      <guid>https://SilverR0ck.github.io/blog/studying/</guid>
+      <description>Hi I&amp;rsquo;m Eunseok. 2023-05-12T21:07:59+09:00 From this point on, I gonna post what I have learned about software. </description>
+    </item>
+    
   </channel>
 </rss>
